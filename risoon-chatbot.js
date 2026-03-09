@@ -305,7 +305,7 @@
               <div class="risoon-chat-avatar">💡</div>
               <div>
                 <div class="risoon-chat-agent-name">${this.escapeHtml(this.config.assistantName)}</div>
-                <div class="risoon-chat-agent-status">متصل الآن • يرد خلال لحظات</div>
+                <div class="risoon-chat-agent-status">متصل الآن  </div>
               </div>
             </div>
             <button class="risoon-chat-close" type="button" aria-label="إغلاق">×</button>
