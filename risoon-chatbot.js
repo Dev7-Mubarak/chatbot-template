@@ -15,7 +15,7 @@
         webhookUrl: "",
         brandName: "ريسون",
         assistantName: "مساعد ريسون",
-        accentColor: "#2f6f57",
+        accentColor: "#e3ee05",
         accentColorSoft: "#eef7f3",
         position: "right",
         rtl: true,
